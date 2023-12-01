@@ -4,7 +4,7 @@
  * tree_is_perfect - Check if a binary tree is perfect.
  * @tree: A pointer to the root node of the tree to check.
  *
- * Return: If the tree is perfect, return the level of height. Otherwise, return 0.
+ * Return: If tree is perfect, return level of height. else, return 0.
  */
 int tree_is_perfect(const binary_tree_t *tree)
 {
